@@ -1,3 +1,5 @@
+![MasterHead](https://camo.githubusercontent.com/60118c6ff524984563af07ee397adb9db65ca7c13beb663b0fa92efcf12289dd/68747470733a2f2f727579612e73747564696f2f6173736574732f696d616765732f6465762e77656270)
+
 <h1 align="center">Hi 👋, I'm tharindu randika</h1>
 <h3 align="center">Undergraduate Software Engineer from Sri Lanaka</h3>
 
