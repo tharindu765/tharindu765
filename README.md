@@ -84,19 +84,68 @@
   
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tharindu765&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=FF6B6B&icon_color=FF6B6B&title_color=FF6B6B"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharindu765&layout=compact&langs_count=8&theme=radical&border_color=FF6B6B&title_color=FF6B6B"/>
+</div>
+
+<!-- Simple and Clean Stats Section -->
+<div align="center">
+  
+  ### 📊 **Coding Highlights**
+  
+  <table>
+  <tr>
+  <td align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"><br>
+    <strong>🚀 Projects</strong><br>
+    <span style="font-size: 24px; color: #FF6B6B;">15+</span>
+  </td>
+  <td align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50"><br>
+    <strong>💻 Languages</strong><br>
+    <span style="font-size: 24px; color: #FF6B6B;">8+</span>
+  </td>
+  <td align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="50"><br>
+    <strong>⚡ Experience</strong><br>
+    <span style="font-size: 24px; color: #FF6B6B;">1.5 Years</span>
+  </td>
+  <td align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50"><br>
+    <strong>🎯 Goal</strong><br>
+    <span style="font-size: 24px; color: #FF6B6B;">Internship</span>
+  </td>
+  </tr>
+  </table>
   
 </div>
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tharindu765&theme=radical&border=FF6B6B&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B6B&sideLabels=FF6B6B&dates=FFFFFF)
+  ### 🔥 **Development Progress**
   
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+  
+  <table>
+  <tr>
+  <td align="center" width="33%">
+    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80"><br>
+    <strong>🌟 Backend</strong><br>
+    Spring Boot & APIs
+  </td>
+  <td align="center" width="33%">
+    <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="80"><br>
+    <strong>⚛️ Frontend</strong><br>
+    React & MERN Stack
+  </td>
+  <td align="center" width="33%">
+    <img src="https://user-images.githubusercontent.com/74038190/212284175-acc7d5c8-b49d-4459-a2cc-3d7ca0c0d0c7.gif" width="80"><br>
+    <strong>🚀 Ready</strong><br>
+    For Real Projects!
+  </td>
+  </tr>
+  </table>
+  
+  **📈 Consistently building and learning every day! 💪**
+  
 </div>
 
 ## 🎯 Current Focus
